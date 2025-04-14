@@ -1,4 +1,4 @@
-```bash
+
  # ShopTable
 Скриншот авторизации
 ![глазок от пароля](/ShopTable/Eye(2).png")
